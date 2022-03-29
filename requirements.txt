@@ -33,7 +33,7 @@ keyrings.alt==3.1.1
 lazy-object-proxy==1.4.1
 MarkupSafe==1.1.1
 mccabe==0.6.1
-paramiko==2.6.0
+paramiko==2.10.1
 pathspec==0.5.9
 prettytable==0.7.2
 psycopg2-binary==2.8.3
